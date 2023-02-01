@@ -15,3 +15,4 @@ else
 if (X <0 && Y < 0) Console.WriteLine ("3 четыерть");
 else
 if (X >0 && Y < 0) Console.WriteLine ("4 четыерть");
+else Console.WriteLine ("X и/или Y равны нулю. Значение X и/или Y заданы не в соответствии с условиями");
